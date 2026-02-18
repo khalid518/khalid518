@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Khalid, a software developer based in Nigeria.
+I enjoy building web applications that are not just functional, but clean, efficient, and user-friendly. I like turning ideas into real products and solving problems through code.
+I work mostly with Laravel, Reac and MySQL.
+I have built projects such as an asset management system, an e-commerce platform and loan application.
+I’m open to collaborations, freelance opportunities, and interesting tech conversations.
